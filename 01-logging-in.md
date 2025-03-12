@@ -11,14 +11,6 @@
 ## A Sandbox Account has been provisioned for you to use for the duration of this workshop.
 Login to your **Harness Sandbox** account using the details provided below.👇
 
-> [!IMPORTANT]
-> 1) The Instruqt platform this workshop is delivered by uses a browser in browser to simplify the hands-on lab experience.
-> 1) Zoom content by clicking in the browser in browser and pressing:
->    1) Mac:`⌘ -`
->    1) PC: `CTRL -`
-> 1) *If you experience any issues you can access the Harness Platform in your browser tab by clicking: \
->  <img src="https://raw.githubusercontent.com/harness-community/field-workshops/main/assets/images/arrow-up-right-from-square.svg" alt="Arrow icon" width="16" height="16" style="display: inline; vertical-align: middle;">[button label="Harness Platform" variant="success"](tab-2) tab*
-
 Harness Account
 ===
 ## Harness Sandbox Account details:
