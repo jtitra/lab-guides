@@ -18,7 +18,7 @@ Select **Unified View** from the list \
 > - Click **Start**
 
 > [!NOTE]
-> Inline vs. Remote - We're using inline for this lab, but you can also use a remote repository like GitHub. This is useful for teams that want to keep their _pipelines as code_ bundled up snuggly with _application code_. Cozy!
+> Inline vs. Remote - We're using inline for this lab, but you can also use a remote repository like GitHub. This is useful for teams that want to keep their *pipelines as code* bundled up snuggly with *application code*. Cozy!
 
 > 1) Click `+Add Stage`
 > 1) Choose **Build** stage type \
