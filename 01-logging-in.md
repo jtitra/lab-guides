@@ -11,6 +11,17 @@
 ## A Sandbox Account has been provisioned for you to use for the duration of this workshop.
 Login to your **Harness Sandbox** account using the details provided below.👇
 
+---
+
+Signing In
+===
+
+> 📝 *Click Single sign-on* <br>
+> *Login using the credentials above:* <br>
+> ![](https://raw.githubusercontent.com/harness-community/field-workshops/main/assets/images/sso_login.png)
+
+---
+
 Harness Account
 ===
 ## Harness Sandbox Account details:
@@ -24,13 +35,6 @@ Harness Account
 >  <img src="https://raw.githubusercontent.com/harness-community/field-workshops/main/assets/images/link.svg" alt="Link icon" width="16" height="16" style="display: inline; vertical-align: middle;">[button label="Lab Credentials" variant="success"](tab-1) tab*
 
 ---
-
-Signing In
-===
-
-> 📝 *Click Single sign-on* <br>
-> *Login using the credentials above:* <br>
-> ![](https://raw.githubusercontent.com/harness-community/field-workshops/main/assets/images/sso_login.png)
 
 Project Selection
 ===
