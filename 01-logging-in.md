@@ -1,4 +1,4 @@
-</style><h2 class="cyan">👋 Welcome to your Harness Workshop Sandbox!</h2>
+<h2 class="cyan">👋 Welcome to your Harness Workshop Sandbox!</h2>
 <hr class="cyan">
 <br>
 
